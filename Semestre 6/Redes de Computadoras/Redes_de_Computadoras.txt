@@ -1,0 +1,18 @@
+LAN:
+-Varios Metros
+-Area Geografica Limitada
+-Cobre/Fibra Optica/WiFi
+
+MAN:
+-Union de Varias Redes LAN
+-Varios KiloMetros
+-Localidades
+-Transportan Miles de Datos
+-Fibra Optica/Satelital/RadioFrecuencia
+
+WAN:
+-Union de Redes MAN
+-Distancia de 100 KiloMetros
+-Tecnologia Fibra Optica/Satelital
+-Transporta Solo Enlaces de Proveedores ISP
+-Enlaces Punto a Punto
